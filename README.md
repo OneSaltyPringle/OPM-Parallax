@@ -2,9 +2,32 @@
 
 This Mod is a continuation of ballisticfox0's OPM Parallax terrain mod that adds configuration for Outer Planets Mod Parallax + Scatters.
 
-## Description
+* Here is the status of all Planet Scatters:
+```
+Sarnus:
 
-An in-depth paragraph about your project and overview of use.
+Tekto - DONE
+Slate - DONE
+Hale - DONE
+Ovok - WIP
+
+Urlum:
+
+Priax - DONE
+Polta - DONE
+Wal - DONE
+Tal - DONE
+
+Neidon:
+
+Nissee - DONE
+Thatmo - DONE
+
+Plock:
+
+Plock - DONE
+Karen - DONE
+```
 
 ## Getting Started
 
