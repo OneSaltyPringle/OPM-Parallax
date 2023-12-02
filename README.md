@@ -1,5 +1,5 @@
 # Outer Planets Mod - Parallax + Scatters
-
+![](https://i.imgur.com/ogvc7Pl.png)
 This Mod is a continuation of ballisticfox0's OPM Parallax terrain mod that adds configuration for Outer Planets Mod Parallax + Scatters.
 
 * Here is the status of all Planet Scatters:
