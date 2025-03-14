@@ -40,10 +40,10 @@ Karen - DONE
 
 ### Installing
 
-* Download and Install Parallax
-* Download and Install Outer Planets Mod
-* Drop GameData folder from ZIP in KSP main Directory
-* Launch!
+1. Download and Install Parallax
+2. Download and Install Outer Planets Mod
+3. Drop GameData folder from ZIP in KSP main Directory
+4. Launch!
 
 
 ## Author
